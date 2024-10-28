@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://localhost:8082/servlet/org.netbeans.modules.javafx.project.JnlpDownloadServlet/D%3A/Ganga/Customer+Support++Project/Imran/MedeilReportsServer/MedeilReportsServer/dist/" href="MedeilReports.jnlp">
+    <information>
+        <title>MedeilReports</title>
+        <vendor>Vanuston-IT</vendor>
+        <homepage href="http://localhost:8082/servlet/org.netbeans.modules.javafx.project.JnlpDownloadServlet/D%3A/Ganga/Customer+Support++Project/Imran/MedeilReportsServer/MedeilReportsServer/dist/"/>
+        <description>MedeilReports</description>
+        <offline-allowed/>
+    </information>
+    <resources>
+        <j2se version="1.5+"/>
+        <extension name="JavaFX Runtime" href="http://dl.javafx.com/1.3/javafx-rt.jnlp"/>
+        <jar href="MedeilReports.jar" main="true"/>
+        <jar href="lib/commons-collections-3.2.1.jar"/>
+        <jar href="lib/iText-2.1.7.jar"/>
+        <jar href="lib/jcommon-1.0.15.jar"/>
+        <jar href="lib/commons-collections-3.2.1.jar"/>
+        <jar href="lib/commons-digester-1.7.jar"/>
+        <jar href="lib/commons-logging-1.1.jar"/>
+        <jar href="lib/groovy-all-1.5.5.jar"/>
+        <jar href="lib/iText-2.1.7.jar"/>
+        <jar href="lib/jasperreports-3.7.2.jar"/>
+        <jar href="lib/jcommon-1.0.15.jar"/>
+        <jar href="lib/jfreechart-1.0.12.jar"/>
+        <jar href="lib/log4j-1.2.15.jar"/>
+        <jar href="lib/mysql-connector-java-5.1.6-bin.jar"/>
+        <jar href="lib/poi-3.7-20101029.jar"/>
+        <jar href="lib/rt.jar"/>
+        <jar href="lib/swing-layout-1.0.4.jar"/>
+    </resources>
+    <application-desc main-class="com.sun.javafx.runtime.main.Main">
+        <argument>MainJavaFXScript=com.vanuston.medeilreport.ui.Main</argument>
+    </application-desc>
+    <update check="always"/>
+</jnlp>

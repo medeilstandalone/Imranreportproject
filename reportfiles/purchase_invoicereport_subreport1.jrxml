@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="purchase_invoicereport_subreport1" language="groovy" pageWidth="555" pageHeight="802" columnWidth="555" leftMargin="0" rightMargin="0" topMargin="0" bottomMargin="0">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="invoicenumber" class="java.lang.String"/>
+	<queryString>
+		<![CDATA[select distinct invoice_no,sum(total_value-(total_value*unit_discount/100))*unit_vat/100 as vatamtpur,sum((qty+free)*(p.mrp-(p.mrp/(1+unit_vat/100)))) as vatamtmrp,unit_vat,vat_calc_flag
+from purchase_invoice p,drugtable d
+where invoice_no = $P{invoicenumber} and p.item_code=d.itemcode and purc_is_adjust=0 group by invoice_no,unit_vat,vat_calc_flag]]>
+	</queryString>
+	<field name="invoice_no" class="java.lang.String"/>
+	<field name="vatamtpur" class="java.lang.Double"/>
+	<field name="vatamtmrp" class="java.lang.Double"/>
+	<field name="unit_vat" class="java.lang.Double"/>
+	<field name="vat_calc_flag" class="java.lang.Long"/>
+	<variable name="vatamt" class="java.lang.Number" calculation="Sum">
+		<variableExpression><![CDATA[$F{vatamtpur}]]></variableExpression>
+	</variable>
+	<group name="invoice_no">
+		<groupExpression><![CDATA[$F{invoice_no}]]></groupExpression>
+	</group>
+	<group name="unit_vat">
+		<groupExpression><![CDATA[$F{unit_vat}]]></groupExpression>
+	</group>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<detail>
+		<band height="15" splitType="Stretch">
+			<printWhenExpression><![CDATA[$F{unit_vat} > 0]]></printWhenExpression>
+			<textField>
+				<reportElement x="0" y="0" width="39" height="15"/>
+				<textElement verticalAlignment="Top">
+					<font fontName="Monospaced"/>
+				</textElement>
+				<textFieldExpression class="java.lang.Double"><![CDATA[$F{unit_vat}]]></textFieldExpression>
+			</textField>
+			<textField pattern="#,##,##0.00">
+				<reportElement x="39" y="0" width="64" height="15">
+					<printWhenExpression><![CDATA[$F{vat_calc_flag}==0]]></printWhenExpression>
+				</reportElement>
+				<textElement textAlignment="Right">
+					<font fontName="Monospaced"/>
+				</textElement>
+				<textFieldExpression class="java.lang.Double"><![CDATA[$F{vatamtpur}]]></textFieldExpression>
+			</textField>
+			<textField pattern="#,##,##0.00">
+				<reportElement x="39" y="0" width="64" height="15">
+					<printWhenExpression><![CDATA[$F{vat_calc_flag}==1]]></printWhenExpression>
+				</reportElement>
+				<textElement textAlignment="Right">
+					<font fontName="Monospaced"/>
+				</textElement>
+				<textFieldExpression class="java.lang.Double"><![CDATA[$F{vatamtmrp}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+</jasperReport>

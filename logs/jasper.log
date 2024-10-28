@@ -1,0 +1,978 @@
+17 Jun 2023 16:18:48,538 1229722 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,538 1229722 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,538 1229722 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,539 1229723 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,539 1229723 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,540 1229724 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,540 1229724 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,541 1229725 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,541 1229725 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,541 1229725 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,541 1229725 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,542 1229726 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,542 1229726 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,542 1229726 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,542 1229726 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: column footer
+17 Jun 2023 16:18:48,542 1229726 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: page footer
+17 Jun 2023 16:18:48,543 1229727 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 30389589: adding page 11
+17 Jun 2023 16:18:48,543 1229727 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: page header
+17 Jun 2023 16:18:48,543 1229727 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: column header
+17 Jun 2023 16:18:48,544 1229728 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,544 1229728 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,545 1229729 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,545 1229729 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,545 1229729 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,546 1229730 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,546 1229730 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,546 1229730 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,546 1229730 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,547 1229731 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,547 1229731 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,547 1229731 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,548 1229732 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,548 1229732 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,548 1229732 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,549 1229733 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,549 1229733 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,549 1229733 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,550 1229734 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,550 1229734 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,550 1229734 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,551 1229735 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,551 1229735 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,551 1229735 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,552 1229736 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,552 1229736 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: column footer
+17 Jun 2023 16:18:48,552 1229736 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: page footer
+17 Jun 2023 16:18:48,552 1229736 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 30389589: adding page 12
+17 Jun 2023 16:18:48,552 1229736 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: page header
+17 Jun 2023 16:18:48,552 1229736 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: column header
+17 Jun 2023 16:18:48,553 1229737 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,554 1229738 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,554 1229738 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,554 1229738 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,555 1229739 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,555 1229739 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,555 1229739 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,555 1229739 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,556 1229740 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,556 1229740 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,556 1229740 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,557 1229741 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,557 1229741 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,557 1229741 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,558 1229742 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,558 1229742 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,558 1229742 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,559 1229743 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,559 1229743 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,559 1229743 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,560 1229744 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,560 1229744 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,560 1229744 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,561 1229745 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,561 1229745 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,561 1229745 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: column footer
+17 Jun 2023 16:18:48,561 1229745 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: page footer
+17 Jun 2023 16:18:48,561 1229745 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 30389589: adding page 13
+17 Jun 2023 16:18:48,561 1229745 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: page header
+17 Jun 2023 16:18:48,562 1229746 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: column header
+17 Jun 2023 16:18:48,562 1229746 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,563 1229747 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,563 1229747 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,563 1229747 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,564 1229748 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,564 1229748 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,564 1229748 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,565 1229749 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,565 1229749 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,565 1229749 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,566 1229750 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,566 1229750 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,566 1229750 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,567 1229751 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,567 1229751 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,567 1229751 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,568 1229752 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,568 1229752 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,568 1229752 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,569 1229753 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,569 1229753 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,569 1229753 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,570 1229754 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,570 1229754 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,570 1229754 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,570 1229754 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: column footer
+17 Jun 2023 16:18:48,570 1229754 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: page footer
+17 Jun 2023 16:18:48,570 1229754 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 30389589: adding page 14
+17 Jun 2023 16:18:48,571 1229755 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: page header
+17 Jun 2023 16:18:48,571 1229755 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: column header
+17 Jun 2023 16:18:48,572 1229756 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,572 1229756 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,572 1229756 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,573 1229757 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,573 1229757 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,573 1229757 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,574 1229758 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,574 1229758 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,574 1229758 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,574 1229758 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,575 1229759 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,575 1229759 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: detail
+17 Jun 2023 16:18:48,575 1229759 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: Group1 footer
+17 Jun 2023 16:18:48,576 1229760 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: summary
+17 Jun 2023 16:18:48,576 1229760 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: column footer
+17 Jun 2023 16:18:48,576 1229760 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 30389589: page footer
+17 Jun 2023 16:18:48,576 1229760 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 30389589: adding page 15
+17 Jun 2023 16:18:48,577 1229761 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 30389589: ended
+17 Jun 2023 16:18:48,577 1229761 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 30389589: closing query executer
+17 Jun 2023 16:19:08,680 1249864 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 6672960: created for credit_note
+17 Jun 2023 16:19:08,688 1249872 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 6672960: filling report
+17 Jun 2023 16:19:08,688 1249872 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 6672960: Creating sql query executer
+17 Jun 2023 16:19:08,688 1249872 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: call pro_creditnotes(?,?,?)
+17 Jun 2023 16:19:08,689 1249873 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (type1 of type java.lang.String): todaycreditnote
+17 Jun 2023 16:19:08,689 1249873 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (fromdate of type java.lang.String): 0000-00-00
+17 Jun 2023 16:19:08,689 1249873 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #3 (todate of type java.lang.String): 0000-00-00
+17 Jun 2023 16:19:08,689 1249873 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 6672960: no data
+17 Jun 2023 16:19:08,689 1249873 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 6672960: all sections
+17 Jun 2023 16:19:08,689 1249873 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 6672960: adding page 1
+17 Jun 2023 16:19:08,689 1249873 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 6672960: noData
+17 Jun 2023 16:19:08,689 1249873 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 6672960: ended
+17 Jun 2023 16:19:08,689 1249873 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 6672960: closing query executer
+17 Jun 2023 16:19:11,679 1252863 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 21085320: created for debit_note
+17 Jun 2023 16:19:11,886 1253070 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 21085320: filling report
+17 Jun 2023 16:19:11,886 1253070 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 21085320: Creating sql query executer
+17 Jun 2023 16:19:11,886 1253070 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: call pro_debitnotes(?,?,?)
+17 Jun 2023 16:19:11,886 1253070 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (type1 of type java.lang.String): todaydebitnote
+17 Jun 2023 16:19:11,886 1253070 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (fromdate of type java.lang.String): 0000-00-00
+17 Jun 2023 16:19:11,886 1253070 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #3 (todate of type java.lang.String): 0000-00-00
+17 Jun 2023 16:19:11,887 1253071 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 21085320: no data
+17 Jun 2023 16:19:11,887 1253071 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 21085320: all sections
+17 Jun 2023 16:19:11,887 1253071 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 21085320: adding page 1
+17 Jun 2023 16:19:11,887 1253071 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 21085320: noData
+17 Jun 2023 16:19:11,888 1253072 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 21085320: ended
+17 Jun 2023 16:19:11,888 1253072 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 21085320: closing query executer
+17 Jun 2023 16:19:17,678 1258862 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 15973175: created for Payment
+17 Jun 2023 16:19:17,727 1258911 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 15973175: filling report
+17 Jun 2023 16:19:17,727 1258911 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 15973175: Creating sql query executer
+17 Jun 2023 16:19:17,727 1258911 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: call pro_payment(?,?,?)
+17 Jun 2023 16:19:17,727 1258911 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (type1 of type java.lang.String): todaypayment
+17 Jun 2023 16:19:17,727 1258911 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (fromdate of type java.lang.String): 0000-00-00
+17 Jun 2023 16:19:17,727 1258911 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #3 (todate of type java.lang.String): 0000-00-00
+17 Jun 2023 16:19:17,742 1258926 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 15973175: adding page 1
+17 Jun 2023 16:19:17,742 1258926 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 15973175: title
+17 Jun 2023 16:19:17,742 1258926 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 15973175: page header
+17 Jun 2023 16:19:17,744 1258928 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 15973175: column header
+17 Jun 2023 16:19:17,744 1258928 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 15973175: Group1 header
+17 Jun 2023 16:19:17,744 1258928 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 15973175: detail
+17 Jun 2023 16:19:17,745 1258929 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 15973175: detail
+17 Jun 2023 16:19:17,746 1258930 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 15973175: Group1 footer
+17 Jun 2023 16:19:17,746 1258930 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 15973175: summary
+17 Jun 2023 16:19:17,746 1258930 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 15973175: page footer
+17 Jun 2023 16:19:17,747 1258931 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 15973175: ended
+17 Jun 2023 16:19:17,747 1258931 [RMI TCP Connection(20)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 15973175: closing query executer
+17 Jun 2023 16:19:49,661 1290845 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 28718379: created for paymenttransactions
+17 Jun 2023 16:19:49,667 1290851 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 28718379: filling report
+17 Jun 2023 16:19:49,667 1290851 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 28718379: Creating sql query executer
+17 Jun 2023 16:19:49,667 1290851 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: select *,concat(address1,", ",address2,"  ",address3) as address from payment,shop_information where payment_date between ? and ?
+17 Jun 2023 16:19:49,667 1290851 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (fromdate of type java.lang.String): 2023-05-28
+17 Jun 2023 16:19:49,667 1290851 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (todate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:19:49,676 1290860 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 28718379: adding page 1
+17 Jun 2023 16:19:49,676 1290860 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: title
+17 Jun 2023 16:19:49,676 1290860 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: page header
+17 Jun 2023 16:19:49,677 1290861 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: column header
+17 Jun 2023 16:19:49,677 1290861 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: Group1 header
+17 Jun 2023 16:19:49,678 1290862 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,679 1290863 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,680 1290864 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,680 1290864 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,681 1290865 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,681 1290865 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,682 1290866 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,682 1290866 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,683 1290867 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,683 1290867 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,684 1290868 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,684 1290868 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,685 1290869 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,685 1290869 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,686 1290870 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,686 1290870 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,687 1290871 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,688 1290872 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,688 1290872 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,688 1290872 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,689 1290873 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,689 1290873 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,690 1290874 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,691 1290875 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,691 1290875 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,692 1290876 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,692 1290876 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,693 1290877 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: page footer
+17 Jun 2023 16:19:49,693 1290877 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 28718379: adding page 2
+17 Jun 2023 16:19:49,693 1290877 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: page header
+17 Jun 2023 16:19:49,694 1290878 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: column header
+17 Jun 2023 16:19:49,695 1290879 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,696 1290880 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,697 1290881 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,697 1290881 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,698 1290882 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,698 1290882 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,699 1290883 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,699 1290883 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,700 1290884 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,700 1290884 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,700 1290884 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,701 1290885 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,701 1290885 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,702 1290886 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,703 1290887 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,703 1290887 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,704 1290888 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,704 1290888 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,705 1290889 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,705 1290889 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,706 1290890 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,706 1290890 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,707 1290891 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,708 1290892 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,708 1290892 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,709 1290893 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,709 1290893 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: page footer
+17 Jun 2023 16:19:49,709 1290893 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 28718379: adding page 3
+17 Jun 2023 16:19:49,709 1290893 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: page header
+17 Jun 2023 16:19:49,709 1290893 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: column header
+17 Jun 2023 16:19:49,710 1290894 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,711 1290895 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,712 1290896 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,712 1290896 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,713 1290897 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,713 1290897 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,714 1290898 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,715 1290899 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,715 1290899 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,716 1290900 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,717 1290901 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,717 1290901 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,718 1290902 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,718 1290902 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,719 1290903 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,720 1290904 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,720 1290904 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,720 1290904 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,721 1290905 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,721 1290905 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,722 1290906 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,723 1290907 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,723 1290907 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,723 1290907 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,724 1290908 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,724 1290908 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,724 1290908 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: page footer
+17 Jun 2023 16:19:49,724 1290908 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 28718379: adding page 4
+17 Jun 2023 16:19:49,724 1290908 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: page header
+17 Jun 2023 16:19:49,725 1290909 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: column header
+17 Jun 2023 16:19:49,726 1290910 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,726 1290910 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,727 1290911 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,727 1290911 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,728 1290912 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,728 1290912 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,729 1290913 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,730 1290914 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,730 1290914 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,731 1290915 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,731 1290915 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,732 1290916 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,732 1290916 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,732 1290916 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,733 1290917 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,734 1290918 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,734 1290918 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,735 1290919 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,735 1290919 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,736 1290920 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,737 1290921 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,738 1290922 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,738 1290922 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,739 1290923 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,740 1290924 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,740 1290924 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,740 1290924 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: page footer
+17 Jun 2023 16:19:49,741 1290925 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 28718379: adding page 5
+17 Jun 2023 16:19:49,741 1290925 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: page header
+17 Jun 2023 16:19:49,741 1290925 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: column header
+17 Jun 2023 16:19:49,742 1290926 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,743 1290927 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,743 1290927 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,744 1290928 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,744 1290928 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,745 1290929 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,746 1290930 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,746 1290930 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,747 1290931 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,747 1290931 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,748 1290932 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,749 1290933 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,749 1290933 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,750 1290934 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,750 1290934 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,750 1290934 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,751 1290935 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,752 1290936 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,752 1290936 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,753 1290937 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,754 1290938 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,754 1290938 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,755 1290939 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,755 1290939 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,756 1290940 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,756 1290940 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,756 1290940 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: page footer
+17 Jun 2023 16:19:49,756 1290940 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 28718379: adding page 6
+17 Jun 2023 16:19:49,756 1290940 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: page header
+17 Jun 2023 16:19:49,757 1290941 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: column header
+17 Jun 2023 16:19:49,758 1290942 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,759 1290943 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,759 1290943 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,760 1290944 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,760 1290944 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,761 1290945 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,761 1290945 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,762 1290946 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,763 1290947 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,763 1290947 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,764 1290948 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,765 1290949 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,766 1290950 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,766 1290950 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,767 1290951 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,768 1290952 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,768 1290952 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,769 1290953 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,769 1290953 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,770 1290954 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,771 1290955 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,771 1290955 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,772 1290956 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,772 1290956 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,772 1290956 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,773 1290957 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,773 1290957 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: page footer
+17 Jun 2023 16:19:49,773 1290957 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 28718379: adding page 7
+17 Jun 2023 16:19:49,773 1290957 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: page header
+17 Jun 2023 16:19:49,774 1290958 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: column header
+17 Jun 2023 16:19:49,775 1290959 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,786 1290970 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,787 1290971 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,788 1290972 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,788 1290972 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,789 1290973 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,789 1290973 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,790 1290974 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,791 1290975 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,791 1290975 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,791 1290975 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,792 1290976 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,792 1290976 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,792 1290976 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,793 1290977 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,793 1290977 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,794 1290978 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,794 1290978 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,795 1290979 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,795 1290979 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,796 1290980 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,796 1290980 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: detail
+17 Jun 2023 16:19:49,797 1290981 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: Group1 footer
+17 Jun 2023 16:19:49,797 1290981 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 28718379: page footer
+17 Jun 2023 16:19:49,797 1290981 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 28718379: ended
+17 Jun 2023 16:19:49,797 1290981 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 28718379: closing query executer
+17 Jun 2023 16:20:10,814 1311998 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 19741895: created for receipts
+17 Jun 2023 16:20:10,822 1312006 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 19741895: filling report
+17 Jun 2023 16:20:10,822 1312006 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 19741895: Creating sql query executer
+17 Jun 2023 16:20:10,822 1312006 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: call pro_receipt(?,?,?)
+17 Jun 2023 16:20:10,822 1312006 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (type1 of type java.lang.String): todayreceipt
+17 Jun 2023 16:20:10,822 1312006 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (fromdate of type java.lang.String): 0000-00-00
+17 Jun 2023 16:20:10,822 1312006 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #3 (todate of type java.lang.String): 0000-00-00
+17 Jun 2023 16:20:10,850 1312034 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 19741895: adding page 1
+17 Jun 2023 16:20:10,850 1312034 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 19741895: title
+17 Jun 2023 16:20:10,850 1312034 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 19741895: page header
+17 Jun 2023 16:20:10,851 1312035 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 19741895: column header
+17 Jun 2023 16:20:10,852 1312036 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 19741895: Group1 header
+17 Jun 2023 16:20:10,852 1312036 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 19741895: detail
+17 Jun 2023 16:20:10,853 1312037 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 19741895: Group1 footer
+17 Jun 2023 16:20:10,853 1312037 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 19741895: summary
+17 Jun 2023 16:20:10,853 1312037 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 19741895: page footer
+17 Jun 2023 16:20:10,853 1312037 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 19741895: ended
+17 Jun 2023 16:20:10,853 1312037 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 19741895: closing query executer
+17 Jun 2023 16:20:20,909 1322093 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 4511177: created for receipttransactions
+17 Jun 2023 16:20:20,915 1322099 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 4511177: filling report
+17 Jun 2023 16:20:20,915 1322099 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 4511177: Creating sql query executer
+17 Jun 2023 16:20:20,915 1322099 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: select *,concat(address1,", ",address2,"  ",address3) as address from receipt,shop_information where receipt_date between ? and ?
+17 Jun 2023 16:20:20,915 1322099 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (fromdate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:20:20,915 1322099 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (todate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:20:20,916 1322100 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 4511177: adding page 1
+17 Jun 2023 16:20:20,916 1322100 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 4511177: title
+17 Jun 2023 16:20:20,916 1322100 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 4511177: page header
+17 Jun 2023 16:20:20,917 1322101 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 4511177: column header
+17 Jun 2023 16:20:20,918 1322102 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 4511177: Group1 header
+17 Jun 2023 16:20:20,918 1322102 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 4511177: detail
+17 Jun 2023 16:20:20,919 1322103 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 4511177: Group1 footer
+17 Jun 2023 16:20:20,919 1322103 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 4511177: page footer
+17 Jun 2023 16:20:20,919 1322103 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 4511177: ended
+17 Jun 2023 16:20:20,919 1322103 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 4511177: closing query executer
+17 Jun 2023 16:20:34,045 1335229 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 4629456: created for balance_sheet
+17 Jun 2023 16:20:34,048 1335232 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 4629456: filling report
+17 Jun 2023 16:20:34,048 1335232 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 4629456: Creating sql query executer
+17 Jun 2023 16:20:34,048 1335232 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: select *,concat(address1,", ",address2," ",address3) as address from balance_sheet,shop_information
+17 Jun 2023 16:20:34,049 1335233 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 4629456: adding page 1
+17 Jun 2023 16:20:34,049 1335233 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 4629456: title
+17 Jun 2023 16:20:34,049 1335233 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 4629456: page header
+17 Jun 2023 16:20:34,050 1335234 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 4629456: column header
+17 Jun 2023 16:20:34,050 1335234 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 4629456: Group1 header
+17 Jun 2023 16:20:34,050 1335234 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 4629456: detail
+17 Jun 2023 16:20:34,052 1335236 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 4629456: page footer
+17 Jun 2023 16:20:34,052 1335236 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 4629456: ended
+17 Jun 2023 16:20:34,052 1335236 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 4629456: closing query executer
+17 Jun 2023 16:20:50,993 1352177 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 6927399: created for balance_sheet
+17 Jun 2023 16:20:50,994 1352178 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 6927399: filling report
+17 Jun 2023 16:20:50,994 1352178 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 6927399: Creating sql query executer
+17 Jun 2023 16:20:50,994 1352178 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: select *,concat(address1,", ",address2," ",address3) as address from balance_sheet,shop_information
+17 Jun 2023 16:20:50,995 1352179 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 6927399: adding page 1
+17 Jun 2023 16:20:50,995 1352179 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 6927399: title
+17 Jun 2023 16:20:50,995 1352179 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 6927399: page header
+17 Jun 2023 16:20:50,996 1352180 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 6927399: column header
+17 Jun 2023 16:20:50,996 1352180 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 6927399: Group1 header
+17 Jun 2023 16:20:50,996 1352180 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 6927399: detail
+17 Jun 2023 16:20:50,998 1352182 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 6927399: page footer
+17 Jun 2023 16:20:50,998 1352182 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 6927399: ended
+17 Jun 2023 16:20:50,998 1352182 [RMI TCP Connection(22)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 6927399: closing query executer
+17 Jun 2023 16:21:30,903 1392087 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 21807702: created for cash_flow
+17 Jun 2023 16:21:30,909 1392093 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 21807702: filling report
+17 Jun 2023 16:21:30,910 1392094 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 21807702: Creating sql query executer
+17 Jun 2023 16:21:30,910 1392094 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: select *,concat(address1,", ",address2," ",address3) as address from cash_flow,shop_information
+17 Jun 2023 16:21:30,910 1392094 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 21807702: adding page 1
+17 Jun 2023 16:21:30,910 1392094 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 21807702: title
+17 Jun 2023 16:21:30,910 1392094 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 21807702: page header
+17 Jun 2023 16:21:30,912 1392096 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 21807702: column header
+17 Jun 2023 16:21:30,912 1392096 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 21807702: Group1 header
+17 Jun 2023 16:21:30,912 1392096 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 21807702: detail
+17 Jun 2023 16:21:30,914 1392098 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 21807702: page footer
+17 Jun 2023 16:21:30,914 1392098 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 21807702: ended
+17 Jun 2023 16:21:30,914 1392098 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 21807702: closing query executer
+17 Jun 2023 16:22:01,692 1422876 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 31723555: created for pandl
+17 Jun 2023 16:22:01,698 1422882 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 31723555: filling report
+17 Jun 2023 16:22:01,698 1422882 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 31723555: Creating sql query executer
+17 Jun 2023 16:22:01,698 1422882 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: select *,concat(address1,", ",address2,"  ",address3) as address from profitloss,shop_information
+17 Jun 2023 16:22:01,698 1422882 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 31723555: adding page 1
+17 Jun 2023 16:22:01,700 1422884 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 31723555: title
+17 Jun 2023 16:22:01,700 1422884 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 31723555: page header
+17 Jun 2023 16:22:01,701 1422885 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 31723555: column header
+17 Jun 2023 16:22:01,701 1422885 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 31723555: Group1 header
+17 Jun 2023 16:22:01,701 1422885 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 31723555: detail
+17 Jun 2023 16:22:01,703 1422887 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 31723555: page footer
+17 Jun 2023 16:22:01,704 1422888 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 31723555: ended
+17 Jun 2023 16:22:01,704 1422888 [RMI TCP Connection(24)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 31723555: closing query executer
+17 Jun 2023 16:24:07,758 1548942 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 27270555: created for vat_report
+17 Jun 2023 16:24:07,764 1548948 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 27270555: filling report
+17 Jun 2023 16:24:07,765 1548949 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 27270555: Creating sql query executer
+17 Jun 2023 16:24:07,765 1548949 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: call pro_vatreport(?,?,?)
+17 Jun 2023 16:24:07,765 1548949 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (fromdate of type java.lang.String): 2023-06-01
+17 Jun 2023 16:24:07,765 1548949 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (todate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:24:07,765 1548949 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #3 (unitvat of type java.lang.Double): 15.0
+17 Jun 2023 16:24:07,825 1549009 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 27270555: adding page 1
+17 Jun 2023 16:24:07,825 1549009 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 27270555: title
+17 Jun 2023 16:24:07,825 1549009 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 27270555: page header
+17 Jun 2023 16:24:07,826 1549010 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 27270555: column header
+17 Jun 2023 16:24:07,827 1549011 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 27270555: Group1 header
+17 Jun 2023 16:24:07,828 1549012 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 27270555: detail
+17 Jun 2023 16:24:07,829 1549013 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 27270555: page footer
+17 Jun 2023 16:24:07,830 1549014 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 27270555: ended
+17 Jun 2023 16:24:07,830 1549014 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 27270555: closing query executer
+17 Jun 2023 16:24:20,837 1562021 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 22555518: created for bank_txn
+17 Jun 2023 16:24:20,843 1562027 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 22555518: filling report
+17 Jun 2023 16:24:20,843 1562027 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 22555518: Creating sql query executer
+17 Jun 2023 16:24:20,843 1562027 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: select *,concat(address1," ",address2," ",address3) as address from bank_book,shop_information where cur_date between ? and ?;
+17 Jun 2023 16:24:20,843 1562027 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (fromdate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:24:20,843 1562027 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (todate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:24:20,846 1562030 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 22555518: adding page 1
+17 Jun 2023 16:24:20,846 1562030 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 22555518: title
+17 Jun 2023 16:24:20,846 1562030 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 22555518: page header
+17 Jun 2023 16:24:20,847 1562031 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 22555518: column header
+17 Jun 2023 16:24:20,847 1562031 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 22555518: Group1 header
+17 Jun 2023 16:24:20,848 1562032 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 22555518: detail
+17 Jun 2023 16:24:20,849 1562033 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 22555518: detail
+17 Jun 2023 16:24:20,850 1562034 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 22555518: detail
+17 Jun 2023 16:24:20,850 1562034 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 22555518: detail
+17 Jun 2023 16:24:20,851 1562035 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 22555518: Group1 footer
+17 Jun 2023 16:24:20,851 1562035 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 22555518: page footer
+17 Jun 2023 16:24:20,851 1562035 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 22555518: ended
+17 Jun 2023 16:24:20,851 1562035 [RMI TCP Connection(26)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 22555518: closing query executer
+17 Jun 2023 16:24:45,205 1586389 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 8379533: created for bankacc_txn
+17 Jun 2023 16:24:45,212 1586396 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 8379533: filling report
+17 Jun 2023 16:24:45,212 1586396 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 8379533: Creating sql query executer
+17 Jun 2023 16:24:45,212 1586396 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: select *,concat(address1," ",address2," ",address3) as address from bank_book,shop_information where account_no=? and cur_date between ? and ?;
+17 Jun 2023 16:24:45,212 1586396 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (accnumber of type java.lang.String): 873144641
+17 Jun 2023 16:24:45,212 1586396 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (fromdate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:24:45,212 1586396 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #3 (todate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:24:45,215 1586399 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 8379533: adding page 1
+17 Jun 2023 16:24:45,215 1586399 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8379533: title
+17 Jun 2023 16:24:45,215 1586399 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8379533: page header
+17 Jun 2023 16:24:45,216 1586400 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8379533: column header
+17 Jun 2023 16:24:45,216 1586400 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8379533: Group1 header
+17 Jun 2023 16:24:45,217 1586401 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8379533: detail
+17 Jun 2023 16:24:45,217 1586401 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8379533: detail
+17 Jun 2023 16:24:45,218 1586402 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8379533: detail
+17 Jun 2023 16:24:45,218 1586402 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8379533: detail
+17 Jun 2023 16:24:45,219 1586403 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8379533: Group1 footer
+17 Jun 2023 16:24:45,219 1586403 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8379533: page footer
+17 Jun 2023 16:24:45,220 1586404 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 8379533: ended
+17 Jun 2023 16:24:45,220 1586404 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 8379533: closing query executer
+17 Jun 2023 16:25:03,589 1604773 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 12236939: created for bankacc_deposit
+17 Jun 2023 16:25:03,595 1604779 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 12236939: filling report
+17 Jun 2023 16:25:03,596 1604780 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 12236939: Creating sql query executer
+17 Jun 2023 16:25:03,596 1604780 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: select *,concat(address1," ",address2," ",address3) as address from bank_book,shop_information where account_no=? and transaction_type='Deposit' and cur_date between ? and ?
+17 Jun 2023 16:25:03,596 1604780 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (accnumber of type java.lang.String): 873144641
+17 Jun 2023 16:25:03,596 1604780 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (fromdate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:25:03,596 1604780 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #3 (todate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:25:03,599 1604783 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 12236939: adding page 1
+17 Jun 2023 16:25:03,599 1604783 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12236939: title
+17 Jun 2023 16:25:03,599 1604783 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12236939: page header
+17 Jun 2023 16:25:03,600 1604784 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12236939: column header
+17 Jun 2023 16:25:03,600 1604784 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12236939: Group1 header
+17 Jun 2023 16:25:03,601 1604785 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12236939: detail
+17 Jun 2023 16:25:03,601 1604785 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12236939: Group1 footer
+17 Jun 2023 16:25:03,602 1604786 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12236939: page footer
+17 Jun 2023 16:25:03,602 1604786 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 12236939: ended
+17 Jun 2023 16:25:03,602 1604786 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 12236939: closing query executer
+17 Jun 2023 16:25:13,909 1615093 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 12401345: created for bankacc_withdraw
+17 Jun 2023 16:25:13,915 1615099 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 12401345: filling report
+17 Jun 2023 16:25:13,915 1615099 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 12401345: Creating sql query executer
+17 Jun 2023 16:25:13,915 1615099 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: select *,concat(address1," ",address2," ",address3) as address from bank_book,shop_information where account_no=? and transaction_type='Withdrawal' and cur_date between ? and ?;
+17 Jun 2023 16:25:13,915 1615099 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (accnumber of type java.lang.String): 873144641
+17 Jun 2023 16:25:13,916 1615100 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (fromdate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:25:13,916 1615100 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #3 (todate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:25:13,919 1615103 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 12401345: adding page 1
+17 Jun 2023 16:25:13,919 1615103 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12401345: title
+17 Jun 2023 16:25:13,919 1615103 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12401345: page header
+17 Jun 2023 16:25:13,920 1615104 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12401345: column header
+17 Jun 2023 16:25:13,921 1615105 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12401345: Group1 header
+17 Jun 2023 16:25:13,921 1615105 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12401345: detail
+17 Jun 2023 16:25:13,922 1615106 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12401345: detail
+17 Jun 2023 16:25:13,922 1615106 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12401345: Group1 footer
+17 Jun 2023 16:25:13,922 1615106 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 12401345: page footer
+17 Jun 2023 16:25:13,923 1615107 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 12401345: ended
+17 Jun 2023 16:25:13,923 1615107 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 12401345: closing query executer
+17 Jun 2023 16:25:50,621 1651805 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 32831259: created for cheque_txn
+17 Jun 2023 16:25:50,627 1651811 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 32831259: filling report
+17 Jun 2023 16:25:50,627 1651811 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 32831259: Creating sql query executer
+17 Jun 2023 16:25:50,627 1651811 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: call pro_chequetxn(?,?,?,?,?,?)
+17 Jun 2023 16:25:50,627 1651811 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (type1 of type java.lang.String): accchequetxn
+17 Jun 2023 16:25:50,627 1651811 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (accnumber of type java.lang.String): 873144641
+17 Jun 2023 16:25:50,627 1651811 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #3 (txntype of type java.lang.String): Payable
+17 Jun 2023 16:25:50,627 1651811 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #4 (chqstatus of type java.lang.String): Cleared
+17 Jun 2023 16:25:50,627 1651811 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #5 (fromdate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:25:50,627 1651811 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #6 (todate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:25:50,630 1651814 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 32831259: adding page 1
+17 Jun 2023 16:25:50,630 1651814 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 32831259: title
+17 Jun 2023 16:25:50,630 1651814 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 32831259: page header
+17 Jun 2023 16:25:50,632 1651816 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 32831259: column header
+17 Jun 2023 16:25:50,632 1651816 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 32831259: Group1 header
+17 Jun 2023 16:25:50,633 1651817 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 32831259: detail
+17 Jun 2023 16:25:50,634 1651818 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 32831259: Group1 footer
+17 Jun 2023 16:25:50,634 1651818 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 32831259: page footer
+17 Jun 2023 16:25:50,635 1651819 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 32831259: ended
+17 Jun 2023 16:25:50,635 1651819 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 32831259: closing query executer
+17 Jun 2023 16:25:56,117 1657301 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 17076215: created for card_txn
+17 Jun 2023 16:25:56,123 1657307 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 17076215: filling report
+17 Jun 2023 16:25:56,123 1657307 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 17076215: Creating sql query executer
+17 Jun 2023 16:25:56,123 1657307 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: select *,concat(address1," ",address2," ",address3) as address from sales_cards_bill,shop_information where bill_date between ? and ?;
+17 Jun 2023 16:25:56,123 1657307 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (fromdate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:25:56,124 1657308 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (todate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:25:56,124 1657308 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 17076215: no data
+17 Jun 2023 16:25:56,124 1657308 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 17076215: all sections
+17 Jun 2023 16:25:56,124 1657308 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 17076215: adding page 1
+17 Jun 2023 16:25:56,124 1657308 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 17076215: noData
+17 Jun 2023 16:25:56,124 1657308 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 17076215: ended
+17 Jun 2023 16:25:56,125 1657309 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 17076215: closing query executer
+17 Jun 2023 16:26:04,605 1665789 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: created for customer_info
+17 Jun 2023 16:26:04,610 1665794 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: filling report
+17 Jun 2023 16:26:04,610 1665794 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 26800851: Creating sql query executer
+17 Jun 2023 16:26:04,610 1665794 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: select cust_name,age,gender,concat(cust_address1,"  ",cust_address2,"  ",cust_address3) as cust_address,cust_city,cust_country,cust_state,cust_pincode,phone_no,cust_information.mobile_no,cust_information.email_id,alert_type,shop_name,concat(address1,"  ",address2,"  ",address3) as address,tin_no,city,pincode,contact_no1,cst_no from shop_information,cust_information
+17 Jun 2023 16:26:04,612 1665796 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 1
+17 Jun 2023 16:26:04,612 1665796 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: title
+17 Jun 2023 16:26:04,612 1665796 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,613 1665797 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,613 1665797 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: Group1 header
+17 Jun 2023 16:26:04,614 1665798 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,614 1665798 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,615 1665799 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,615 1665799 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,616 1665800 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,616 1665800 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,617 1665801 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,617 1665801 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,617 1665801 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 2
+17 Jun 2023 16:26:04,617 1665801 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,625 1665809 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,626 1665810 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,626 1665810 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,626 1665810 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,627 1665811 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,627 1665811 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,628 1665812 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,628 1665812 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,628 1665812 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 3
+17 Jun 2023 16:26:04,628 1665812 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,629 1665813 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,629 1665813 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,630 1665814 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,630 1665814 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,631 1665815 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,631 1665815 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,632 1665816 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,632 1665816 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,632 1665816 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 4
+17 Jun 2023 16:26:04,632 1665816 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,632 1665816 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,633 1665817 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,634 1665818 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,634 1665818 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,635 1665819 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,635 1665819 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,635 1665819 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,635 1665819 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,636 1665820 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 5
+17 Jun 2023 16:26:04,636 1665820 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,636 1665820 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,637 1665821 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,637 1665821 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,638 1665822 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,638 1665822 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,639 1665823 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,639 1665823 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,639 1665823 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,639 1665823 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 6
+17 Jun 2023 16:26:04,639 1665823 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,640 1665824 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,641 1665825 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,641 1665825 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,642 1665826 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,642 1665826 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,642 1665826 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,643 1665827 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,643 1665827 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,643 1665827 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 7
+17 Jun 2023 16:26:04,643 1665827 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,644 1665828 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,645 1665829 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,645 1665829 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,645 1665829 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,646 1665830 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,646 1665830 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,647 1665831 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,647 1665831 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,647 1665831 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 8
+17 Jun 2023 16:26:04,647 1665831 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,647 1665831 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,648 1665832 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,649 1665833 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,649 1665833 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,650 1665834 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,650 1665834 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,650 1665834 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,650 1665834 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,651 1665835 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 9
+17 Jun 2023 16:26:04,651 1665835 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,651 1665835 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,652 1665836 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,652 1665836 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,653 1665837 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,653 1665837 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,653 1665837 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,654 1665838 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,654 1665838 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,654 1665838 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 10
+17 Jun 2023 16:26:04,654 1665838 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,655 1665839 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,655 1665839 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,656 1665840 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,656 1665840 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,657 1665841 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,657 1665841 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,657 1665841 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,657 1665841 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,658 1665842 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 11
+17 Jun 2023 16:26:04,658 1665842 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,658 1665842 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,659 1665843 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,659 1665843 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,660 1665844 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,660 1665844 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,661 1665845 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,661 1665845 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,661 1665845 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,661 1665845 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 12
+17 Jun 2023 16:26:04,661 1665845 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,662 1665846 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,663 1665847 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,663 1665847 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,664 1665848 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,664 1665848 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,664 1665848 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,665 1665849 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,665 1665849 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,665 1665849 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 13
+17 Jun 2023 16:26:04,665 1665849 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,666 1665850 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,666 1665850 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,667 1665851 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,667 1665851 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,668 1665852 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,668 1665852 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,668 1665852 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,668 1665852 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,669 1665853 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 14
+17 Jun 2023 16:26:04,669 1665853 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,669 1665853 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,670 1665854 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,670 1665854 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,671 1665855 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,671 1665855 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,672 1665856 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,672 1665856 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,672 1665856 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,672 1665856 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 15
+17 Jun 2023 16:26:04,672 1665856 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,673 1665857 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,674 1665858 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,674 1665858 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,675 1665859 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,675 1665859 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,675 1665859 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,676 1665860 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,676 1665860 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,676 1665860 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 16
+17 Jun 2023 16:26:04,676 1665860 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,677 1665861 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,678 1665862 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,678 1665862 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,678 1665862 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,679 1665863 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,679 1665863 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,680 1665864 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,680 1665864 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,680 1665864 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 17
+17 Jun 2023 16:26:04,680 1665864 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,681 1665865 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,682 1665866 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,682 1665866 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,683 1665867 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,683 1665867 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,683 1665867 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,684 1665868 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,684 1665868 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,684 1665868 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 18
+17 Jun 2023 16:26:04,684 1665868 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,685 1665869 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,685 1665869 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,686 1665870 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,686 1665870 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,686 1665870 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,687 1665871 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,687 1665871 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,687 1665871 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,687 1665871 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 19
+17 Jun 2023 16:26:04,688 1665872 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,688 1665872 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,689 1665873 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,689 1665873 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,690 1665874 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,690 1665874 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,691 1665875 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,691 1665875 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,691 1665875 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,691 1665875 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 20
+17 Jun 2023 16:26:04,691 1665875 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,692 1665876 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,693 1665877 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,693 1665877 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,693 1665877 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,694 1665878 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,694 1665878 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,694 1665878 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,694 1665878 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,695 1665879 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 21
+17 Jun 2023 16:26:04,695 1665879 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,695 1665879 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,696 1665880 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,697 1665881 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,697 1665881 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,698 1665882 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,698 1665882 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,698 1665882 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,698 1665882 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,699 1665883 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 22
+17 Jun 2023 16:26:04,699 1665883 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,699 1665883 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,701 1665885 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,701 1665885 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,701 1665885 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,702 1665886 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,702 1665886 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,703 1665887 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,703 1665887 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,703 1665887 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 23
+17 Jun 2023 16:26:04,703 1665887 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,703 1665887 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,704 1665888 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,705 1665889 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,705 1665889 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,706 1665890 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,706 1665890 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,706 1665890 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,706 1665890 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,707 1665891 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 24
+17 Jun 2023 16:26:04,707 1665891 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,707 1665891 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,708 1665892 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,709 1665893 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,709 1665893 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,709 1665893 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,710 1665894 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,710 1665894 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,710 1665894 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,710 1665894 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 25
+17 Jun 2023 16:26:04,710 1665894 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,711 1665895 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,712 1665896 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,712 1665896 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,713 1665897 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,713 1665897 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,713 1665897 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,714 1665898 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,714 1665898 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,714 1665898 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 26
+17 Jun 2023 16:26:04,714 1665898 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,715 1665899 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,716 1665900 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,716 1665900 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,716 1665900 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,717 1665901 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,717 1665901 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,718 1665902 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,718 1665902 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,718 1665902 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 27
+17 Jun 2023 16:26:04,718 1665902 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,718 1665902 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,719 1665903 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,720 1665904 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,720 1665904 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,721 1665905 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,721 1665905 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,721 1665905 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,721 1665905 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,722 1665906 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 28
+17 Jun 2023 16:26:04,722 1665906 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,722 1665906 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,723 1665907 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,724 1665908 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,724 1665908 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,725 1665909 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,725 1665909 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,725 1665909 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,725 1665909 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,726 1665910 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 29
+17 Jun 2023 16:26:04,726 1665910 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,726 1665910 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,727 1665911 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,727 1665911 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,728 1665912 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,728 1665912 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,729 1665913 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,729 1665913 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,729 1665913 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,729 1665913 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 30
+17 Jun 2023 16:26:04,729 1665913 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,730 1665914 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,731 1665915 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,731 1665915 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,732 1665916 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,732 1665916 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,732 1665916 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,733 1665917 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,733 1665917 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,733 1665917 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: adding page 31
+17 Jun 2023 16:26:04,733 1665917 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page header
+17 Jun 2023 16:26:04,733 1665917 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: column header
+17 Jun 2023 16:26:04,734 1665918 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,735 1665919 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,735 1665919 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,736 1665920 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: detail
+17 Jun 2023 16:26:04,736 1665920 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: summary
+17 Jun 2023 16:26:04,736 1665920 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 26800851: page footer
+17 Jun 2023 16:26:04,738 1665922 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 26800851: ended
+17 Jun 2023 16:26:04,738 1665922 [RMI TCP Connection(28)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 26800851: closing query executer
+17 Jun 2023 16:26:29,144 1690328 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 8293299: created for cust_os
+17 Jun 2023 16:26:29,149 1690333 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 8293299: filling report
+17 Jun 2023 16:26:29,149 1690333 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 8293299: Creating sql query executer
+17 Jun 2023 16:26:29,149 1690333 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: call pro_custos(?,?)
+17 Jun 2023 16:26:29,149 1690333 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (list1 of type java.lang.String): entire_list
+17 Jun 2023 16:26:29,149 1690333 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (customer of type java.lang.String): 
+17 Jun 2023 16:26:29,161 1690345 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 8293299: adding page 1
+17 Jun 2023 16:26:29,161 1690345 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8293299: title
+17 Jun 2023 16:26:29,161 1690345 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8293299: page header
+17 Jun 2023 16:26:29,162 1690346 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8293299: column header
+17 Jun 2023 16:26:29,162 1690346 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8293299: Group1 header
+17 Jun 2023 16:26:29,163 1690347 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8293299: detail
+17 Jun 2023 16:26:29,163 1690347 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8293299: Group1 footer
+17 Jun 2023 16:26:29,164 1690348 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8293299: summary
+17 Jun 2023 16:26:29,164 1690348 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 8293299: page footer
+17 Jun 2023 16:26:29,164 1690348 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 8293299: adding page 2
+17 Jun 2023 16:26:29,164 1690348 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 8293299: ended
+17 Jun 2023 16:26:29,164 1690348 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 8293299: closing query executer
+17 Jun 2023 16:26:35,301 1696485 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 23741374: created for cust_osbillwise
+17 Jun 2023 16:26:35,306 1696490 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 23741374: filling report
+17 Jun 2023 16:26:35,306 1696490 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 23741374: Creating sql query executer
+17 Jun 2023 16:26:35,306 1696490 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: select distinct p.bill_no,p.bill_date,p.cust_name,p.total_amount,coalesce(pa.paid_amt,0) as recpaid,p.paid_amount as salespaid,
+(p.total_amount-(coalesce(sum(pa.paid_amt),0)+p.paid_amount)) as outstanding,s.shop_name,s.contact_no1,s.cst_no,s.tin_no,
+concat(address1,", ",address2,address3) as address,s.city,s.pincode from shop_information s,sales_maintain_bill p
+left join receipt pa on p.cust_name=pa.cust_name and p.bill_no=pa.invoice_no having outstanding>0 order by cust_name
+17 Jun 2023 16:26:35,315 1696499 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 23741374: no data
+17 Jun 2023 16:26:35,315 1696499 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 23741374: all sections
+17 Jun 2023 16:26:35,315 1696499 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 23741374: adding page 1
+17 Jun 2023 16:26:35,315 1696499 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 23741374: noData
+17 Jun 2023 16:26:35,316 1696500 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 23741374: ended
+17 Jun 2023 16:26:35,316 1696500 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 23741374: closing query executer
+17 Jun 2023 16:26:44,126 1705310 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 18782318: created for cust_os
+17 Jun 2023 16:26:44,127 1705311 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 18782318: filling report
+17 Jun 2023 16:26:44,127 1705311 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 18782318: Creating sql query executer
+17 Jun 2023 16:26:44,127 1705311 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: call pro_custos(?,?)
+17 Jun 2023 16:26:44,127 1705311 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (list1 of type java.lang.String): individual_list
+17 Jun 2023 16:26:44,127 1705311 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (customer of type java.lang.String): Sylvie
+17 Jun 2023 16:26:44,128 1705312 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 18782318: adding page 1
+17 Jun 2023 16:26:44,128 1705312 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 18782318: title
+17 Jun 2023 16:26:44,128 1705312 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 18782318: page header
+17 Jun 2023 16:26:44,129 1705313 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 18782318: column header
+17 Jun 2023 16:26:44,129 1705313 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 18782318: Group1 header
+17 Jun 2023 16:26:44,130 1705314 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 18782318: detail
+17 Jun 2023 16:26:44,131 1705315 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 18782318: Group1 footer
+17 Jun 2023 16:26:44,131 1705315 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 18782318: summary
+17 Jun 2023 16:26:44,131 1705315 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 18782318: page footer
+17 Jun 2023 16:26:44,131 1705315 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 18782318: adding page 2
+17 Jun 2023 16:26:44,132 1705316 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 18782318: ended
+17 Jun 2023 16:26:44,132 1705316 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 18782318: closing query executer
+17 Jun 2023 16:26:54,607 1715791 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 13856728: created for complaint_list
+17 Jun 2023 16:26:54,617 1715801 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 13856728: filling report
+17 Jun 2023 16:26:54,617 1715801 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 13856728: Creating sql query executer
+17 Jun 2023 16:26:54,618 1715802 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - SQL query string: select *,concat(address1,", ",address2,", ",address3) as address from shop_information,compliants_register where cdate between ? and ? and cr_flag_id=0
+17 Jun 2023 16:26:54,618 1715802 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #1 (fromdate of type java.lang.String): 2019-05-26
+17 Jun 2023 16:26:54,618 1715802 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.query.JRJdbcQueryExecuter  - Parameter #2 (todate of type java.lang.String): 2023-06-17
+17 Jun 2023 16:26:54,618 1715802 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 13856728: no data
+17 Jun 2023 16:26:54,618 1715802 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 13856728: all sections
+17 Jun 2023 16:26:54,618 1715802 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 13856728: adding page 1
+17 Jun 2023 16:26:54,619 1715803 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller  - Fill 13856728: noData
+17 Jun 2023 16:26:54,619 1715803 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller  - Fill 13856728: ended
+17 Jun 2023 16:26:54,619 1715803 [RMI TCP Connection(30)-192.168.0.133] DEBUG net.sf.jasperreports.engine.fill.JRFillDataset  - Fill 13856728: closing query executer

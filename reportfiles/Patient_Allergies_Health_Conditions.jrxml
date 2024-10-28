@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Patient_Allergies_Health_Conditions" language="groovy" pageWidth="425" pageHeight="595" whenNoDataType="NoDataSection" columnWidth="405" leftMargin="10" rightMargin="10" topMargin="5" bottomMargin="0">
+	<property name="ireport.zoom" value="1.5"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="custname" class="java.lang.String">
+		<defaultValueExpression><![CDATA[$P{custname}]]></defaultValueExpression>
+	</parameter>
+	<parameter name="fromdate" class="java.lang.String">
+		<defaultValueExpression><![CDATA[$P{fromdate}]]></defaultValueExpression>
+	</parameter>
+	<parameter name="todate" class="java.lang.String">
+		<defaultValueExpression><![CDATA[$P{todate}]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[select *,'Allergies' as category from shop_information s,med_patient_details_mt p,med_patient_allergies_mt a
+where p.cust_code=a.cust_code and p.is_active=1 and a.is_active=1 and p.cust_name=$P{custname} and p.cust_date
+ between $P{fromdate} and $P{todate} group by patient_allergies
+union all
+select *,'Health Conditions' as category from shop_information s,med_patient_details_mt p,med_patient_health_conditions_mt h
+where p.cust_code=h.cust_code and p.is_active=1 and h.is_active=1 and p.cust_name=$P{custname} and p.cust_date
+ between $P{fromdate} and $P{todate} group by patient_health_conditions;]]>
+	</queryString>
+	<field name="shop_name" class="java.lang.String"/>
+	<field name="owner_name" class="java.lang.String"/>
+	<field name="address1" class="java.lang.String"/>
+	<field name="address2" class="java.lang.String"/>
+	<field name="address3" class="java.lang.String"/>
+	<field name="city" class="java.lang.String"/>
+	<field name="state" class="java.lang.String"/>
+	<field name="country" class="java.lang.String"/>
+	<field name="pincode" class="java.lang.String"/>
+	<field name="contact_no1" class="java.lang.String"/>
+	<field name="contact_no2" class="java.lang.String"/>
+	<field name="mobile_no" class="java.lang.String"/>
+	<field name="email_id" class="java.lang.String"/>
+	<field name="dl_no" class="java.lang.String"/>
+	<field name="license_holder" class="java.lang.String"/>
+	<field name="tin_no" class="java.lang.String"/>
+	<field name="cst_no" class="java.lang.String"/>
+	<field name="pan_no" class="java.lang.String"/>
+	<field name="commodity_code" class="java.lang.String"/>
+	<field name="pharmacist_name" class="java.lang.String"/>
+	<field name="phar_address1" class="java.lang.String"/>
+	<field name="phar_address2" class="java.lang.String"/>
+	<field name="phar_address3" class="java.lang.String"/>
+	<field name="phar_city" class="java.lang.String"/>
+	<field name="phar_state" class="java.lang.String"/>
+	<field name="phar_country" class="java.lang.String"/>
+	<field name="phar_registration_no" class="java.lang.String"/>
+	<field name="phar_validity" class="java.lang.String"/>
+	<field name="phar_contact_no1" class="java.lang.String"/>
+	<field name="phar_contact_no2" class="java.lang.String"/>
+	<field name="phar_email_id" class="java.lang.String"/>
+	<field name="phar_user_name" class="java.lang.String"/>
+	<field name="phar_password" class="java.lang.String"/>
+	<field name="phar_confirm_password" class="java.lang.String"/>
+	<field name="open_cash_balance" class="java.lang.Double"/>
+	<field name="building_cost" class="java.lang.Double"/>
+	<field name="lease_cost_advance" class="java.lang.Double"/>
+	<field name="registration_cost" class="java.lang.Double"/>
+	<field name="eb_cost" class="java.lang.Double"/>
+	<field name="carpent_cost" class="java.lang.Double"/>
+	<field name="refrigerator_cost" class="java.lang.Double"/>
+	<field name="ac_cost" class="java.lang.Double"/>
+	<field name="displayboard_cost" class="java.lang.Double"/>
+	<field name="computergood_cost" class="java.lang.Double"/>
+	<field name="other_cost" class="java.lang.Double"/>
+	<field name="total_cost" class="java.lang.Double"/>
+	<field name="fax_no" class="java.lang.String"/>
+	<field name="phar_pincode" class="java.lang.String"/>
+	<field name="email_pwd" class="java.lang.String"/>
+	<field name="flag_id" class="java.lang.Integer"/>
+	<field name="id" class="java.lang.Long"/>
+	<field name="cust_date" class="java.sql.Date"/>
+	<field name="cust_code" class="java.lang.String"/>
+	<field name="cust_name" class="java.lang.String"/>
+	<field name="doctor_name" class="java.lang.String"/>
+	<field name="cust_type" class="java.lang.String"/>
+	<field name="department" class="java.lang.String"/>
+	<field name="ward_number" class="java.lang.String"/>
+	<field name="room_number" class="java.lang.String"/>
+	<field name="created_by" class="java.lang.String"/>
+	<field name="created_on" class="java.sql.Timestamp"/>
+	<field name="updated_by" class="java.lang.String"/>
+	<field name="updated_on" class="java.sql.Timestamp"/>
+	<field name="is_active" class="java.lang.Integer"/>
+	<field name="patient_allergies" class="java.lang.String"/>
+	<field name="category" class="java.lang.String"/>
+	<variable name="variable1" class="java.lang.String">
+		<variableExpression><![CDATA[$F{patient_allergies}]]></variableExpression>
+	</variable>
+	<group name="all">
+		<groupExpression><![CDATA[$F{patient_allergies}]]></groupExpression>
+	</group>
+	<group name="cust1">
+		<groupExpression><![CDATA[$F{patient_allergies}]]></groupExpression>
+	</group>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<pageHeader>
+		<band height="104">
+			<textField pattern="dd/MM/yyyy" isBlankWhenNull="true">
+				<reportElement mode="Transparent" x="305" y="72" width="100" height="15"/>
+				<textElement verticalAlignment="Middle">
+					<font fontName="Monospaced"/>
+				</textElement>
+				<textFieldExpression class="java.util.Date"><![CDATA[new java.util.Date()]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="262" y="72" width="44" height="15"/>
+				<textElement>
+					<font fontName="Monospaced" isBold="true"/>
+				</textElement>
+				<text><![CDATA[DATE :]]></text>
+			</staticText>
+			<textField isBlankWhenNull="true">
+				<reportElement x="26" y="54" width="362" height="16"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font fontName="Monospaced" size="12" isBold="true"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA["PATIENT ALLERGIES AND HEALTH CONDITIONS LIST".replace( "_"," " ).toUpperCase().trim()]]></textFieldExpression>
+			</textField>
+			<textField isBlankWhenNull="true">
+				<reportElement x="10" y="36" width="385" height="16"/>
+				<textElement textAlignment="Center">
+					<font fontName="Monospaced" size="12" isBold="true"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[($F{city}+"-"+$F{pincode}+","+"Phone:"+$F{contact_no1}+","+$F{contact_no2}).replace(",,",",").toUpperCase().trim()]]></textFieldExpression>
+			</textField>
+			<textField isBlankWhenNull="true">
+				<reportElement x="0" y="19" width="396" height="17"/>
+				<textElement textAlignment="Center">
+					<font fontName="Monospaced" size="12" isBold="true"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[(($F{address1}+","+$F{address2}+","+$F{address3})+",").replace(",,",",").toUpperCase().trim()]]></textFieldExpression>
+			</textField>
+			<line>
+				<reportElement stretchType="RelativeToBandHeight" x="0" y="71" width="405" height="1"/>
+				<graphicElement>
+					<pen lineWidth="1.0" lineStyle="Solid"/>
+				</graphicElement>
+			</line>
+			<staticText>
+				<reportElement x="2" y="87" width="98" height="15"/>
+				<textElement textAlignment="Left" verticalAlignment="Middle" rotation="None" lineSpacing="Single">
+					<font fontName="Monospaced" size="10" isBold="true"/>
+				</textElement>
+				<text><![CDATA[PATIENT CODE :]]></text>
+			</staticText>
+			<textField isBlankWhenNull="true">
+				<reportElement x="89" y="87" width="100" height="15"/>
+				<textElement verticalAlignment="Middle">
+					<font fontName="Monospaced"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{cust_code}]]></textFieldExpression>
+			</textField>
+			<textField isBlankWhenNull="true">
+				<reportElement x="305" y="85" width="100" height="15"/>
+				<textElement verticalAlignment="Middle">
+					<font fontName="Monospaced"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{mobile_no}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="208" y="85" width="98" height="15"/>
+				<textElement textAlignment="Left" verticalAlignment="Middle" rotation="None" lineSpacing="Single">
+					<font fontName="Monospaced" size="10" isBold="true"/>
+				</textElement>
+				<text><![CDATA[MOBILE NUMBER :]]></text>
+			</staticText>
+			<textField>
+				<reportElement isPrintRepeatedValues="false" x="89" y="72" width="100" height="15"/>
+				<textElement>
+					<font fontName="Monospaced"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{cust_name}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="2" y="72" width="99" height="15"/>
+				<textElement textAlignment="Left" verticalAlignment="Middle" rotation="None" lineSpacing="Single">
+					<font fontName="Monospaced" size="10" isBold="true"/>
+				</textElement>
+				<text><![CDATA[PATIENT NAME :]]></text>
+			</staticText>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="20" splitType="Stretch">
+			<line>
+				<reportElement stretchType="RelativeToBandHeight" x="0" y="0" width="405" height="1"/>
+				<graphicElement>
+					<pen lineWidth="0.5" lineStyle="Dashed"/>
+				</graphicElement>
+			</line>
+			<line>
+				<reportElement stretchType="RelativeToBandHeight" x="0" y="19" width="405" height="1"/>
+				<graphicElement>
+					<pen lineWidth="0.5" lineStyle="Dashed"/>
+				</graphicElement>
+			</line>
+			<staticText>
+				<reportElement x="2" y="1" width="39" height="18"/>
+				<textElement textAlignment="Left" verticalAlignment="Middle" rotation="None" lineSpacing="Single">
+					<font fontName="Monospaced" size="10" isBold="true"/>
+				</textElement>
+				<text><![CDATA[SNo]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="52" y="1" width="238" height="18"/>
+				<textElement textAlignment="Left" verticalAlignment="Middle" rotation="None" lineSpacing="Single">
+					<font fontName="Monospaced" size="10" isBold="true"/>
+				</textElement>
+				<text><![CDATA[PATIENT ALLERGIES &  HEALTH CONDITIONS]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="294" y="1" width="69" height="18"/>
+				<textElement textAlignment="Left" verticalAlignment="Middle" rotation="None" lineSpacing="Single">
+					<font fontName="Monospaced" size="10" isBold="true"/>
+				</textElement>
+				<text><![CDATA[CATEGORY]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="26">
+			<textField>
+				<reportElement isPrintRepeatedValues="false" x="52" y="0" width="242" height="20"/>
+				<textElement textAlignment="Left" verticalAlignment="Middle">
+					<font fontName="Monospaced"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{patient_allergies}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="294" y="0" width="111" height="20">
+					<property name="net.sf.jasperreports.text.truncate.suffix" value=""/>
+				</reportElement>
+				<textElement verticalAlignment="Middle">
+					<font fontName="Monospaced"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{category}]]></textFieldExpression>
+			</textField>
+			<textField isBlankWhenNull="true">
+				<reportElement stretchType="RelativeToBandHeight" mode="Transparent" x="2" y="0" width="50" height="20">
+					<property name="net.sf.jasperreports.text.truncate.suffix" value=""/>
+				</reportElement>
+				<textElement textAlignment="Left" verticalAlignment="Middle">
+					<font fontName="Monospaced" size="10"/>
+				</textElement>
+				<textFieldExpression class="java.lang.Integer"><![CDATA[$V{REPORT_COUNT}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="23">
+			<staticText>
+				<reportElement stretchType="RelativeToBandHeight" x="291" y="2" width="93" height="10" isPrintInFirstWholeBand="true"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle" lineSpacing="Single" markup="none">
+					<font fontName="Verdana" size="8" isBold="false" isPdfEmbedded="false"/>
+				</textElement>
+				<text><![CDATA[Powered By MEDEIL™]]></text>
+			</staticText>
+			<staticText>
+				<reportElement stretchType="RelativeToBandHeight" x="15" y="0" width="61" height="13" isPrintInFirstWholeBand="true"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle" lineSpacing="Single">
+					<font fontName="Monospaced" size="7" isPdfEmbedded="false"/>
+				</textElement>
+				<text><![CDATA[E&O.E
+]]></text>
+			</staticText>
+			<staticText>
+				<reportElement stretchType="RelativeToBandHeight" x="99" y="0" width="189" height="15" isPrintInFirstWholeBand="true"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle" rotation="None" lineSpacing="Single">
+					<font fontName="Monospaced" size="7" isBold="false" isPdfEmbedded="false"/>
+				</textElement>
+				<text><![CDATA[Wish You a Speed Recovery!
+]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="16" y="9" width="36" height="10"/>
+				<textElement>
+					<font fontName="Monospaced" size="7"/>
+				</textElement>
+				<text><![CDATA[+]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="382" y="2" width="8" height="11"/>
+				<textElement>
+					<font fontName="Monospaced" size="7"/>
+				</textElement>
+				<text><![CDATA[+]]></text>
+			</staticText>
+			<line>
+				<reportElement stretchType="RelativeToBandHeight" x="0" y="0" width="405" height="1"/>
+				<graphicElement>
+					<pen lineWidth="0.5" lineStyle="Dashed"/>
+				</graphicElement>
+			</line>
+		</band>
+	</pageFooter>
+	<noData>
+		<band height="50">
+			<staticText>
+				<reportElement x="0" y="3" width="405" height="20"/>
+				<textElement textAlignment="Center" verticalAlignment="Bottom">
+					<font fontName="Monospaced" size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[There is no data avaiable for the given period]]></text>
+			</staticText>
+		</band>
+	</noData>
+</jasperReport>

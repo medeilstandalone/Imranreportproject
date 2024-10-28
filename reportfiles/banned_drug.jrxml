@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="banned_drug" language="groovy" pageWidth="842" pageHeight="595" orientation="Landscape" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<style name="Title" isDefault="false" fontName="Times New Roman" fontSize="50" isBold="true" pdfFontName="Times-Bold"/>
+	<style name="SubTitle" isDefault="false" forecolor="#736343" fontName="Arial" fontSize="18"/>
+	<style name="Column header" isDefault="false" forecolor="#666666" fontName="Arial" fontSize="12" isBold="true"/>
+	<style name="Detail" isDefault="false" fontName="Arial" fontSize="12"/>
+	<style name="Row" isDefault="false" mode="Transparent">
+		<conditionalStyle>
+			<conditionExpression><![CDATA[$V{REPORT_COUNT}%2 == 0]]></conditionExpression>
+			<style isDefault="false" style="Row" backcolor="#E6DAC3"/>
+		</conditionalStyle>
+	</style>
+	<parameter name="REPORTS_DIR" class="java.lang.String"/>
+	<queryString>
+		<![CDATA[select *,concat(address1,", ",address2,", ",address3) as address from shop_information,banned_drug]]>
+	</queryString>
+	<field name="shop_name" class="java.lang.String"/>
+	<field name="owner_name" class="java.lang.String"/>
+	<field name="address1" class="java.lang.String"/>
+	<field name="address2" class="java.lang.String"/>
+	<field name="address3" class="java.lang.String"/>
+	<field name="city" class="java.lang.String"/>
+	<field name="state" class="java.lang.String"/>
+	<field name="country" class="java.lang.String"/>
+	<field name="pincode" class="java.lang.String"/>
+	<field name="contact_no1" class="java.lang.String"/>
+	<field name="contact_no2" class="java.lang.String"/>
+	<field name="mobile_no" class="java.lang.String"/>
+	<field name="email_id" class="java.lang.String"/>
+	<field name="dl_no" class="java.lang.String"/>
+	<field name="license_holder" class="java.lang.String"/>
+	<field name="tin_no" class="java.lang.String"/>
+	<field name="cst_no" class="java.lang.String"/>
+	<field name="Pan_no" class="java.lang.String"/>
+	<field name="pharmacist_name" class="java.lang.String"/>
+	<field name="phar_address1" class="java.lang.String"/>
+	<field name="phar_address2" class="java.lang.String"/>
+	<field name="phar_address3" class="java.lang.String"/>
+	<field name="phar_city" class="java.lang.String"/>
+	<field name="phar_state" class="java.lang.String"/>
+	<field name="phar_country" class="java.lang.String"/>
+	<field name="phar_registration_no" class="java.lang.String"/>
+	<field name="phar_validity" class="java.lang.String"/>
+	<field name="phar_contact_no1" class="java.lang.String"/>
+	<field name="phar_contact_no2" class="java.lang.String"/>
+	<field name="phar_email_id" class="java.lang.String"/>
+	<field name="phar_user_name" class="java.lang.String"/>
+	<field name="phar_password" class="java.lang.String"/>
+	<field name="phar_confirm_password" class="java.lang.String"/>
+	<field name="open_cash_balance" class="java.lang.Double"/>
+	<field name="building_cost" class="java.lang.Double"/>
+	<field name="lease_cost_advance" class="java.lang.Double"/>
+	<field name="registration_cost" class="java.lang.Double"/>
+	<field name="eb_cost" class="java.lang.Double"/>
+	<field name="carpent_cost" class="java.lang.Double"/>
+	<field name="refrigerator_cost" class="java.lang.Double"/>
+	<field name="ac_cost" class="java.lang.Double"/>
+	<field name="displayboard_cost" class="java.lang.Double"/>
+	<field name="computergood_cost" class="java.lang.Double"/>
+	<field name="other_cost" class="java.lang.Double"/>
+	<field name="total_cost" class="java.lang.Double"/>
+	<field name="fax_no" class="java.lang.String"/>
+	<field name="phar_pincode" class="java.lang.String"/>
+	<field name="email_pwd" class="java.lang.String"/>
+	<field name="s_no" class="java.lang.Long"/>
+	<field name="generic_name" class="java.lang.String"/>
+	<field name="therapeutic_area" class="java.lang.String"/>
+	<field name="formulation" class="java.lang.String"/>
+	<field name="exception" class="java.lang.String"/>
+	<field name="gazette_notification" class="java.lang.String"/>
+	<field name="banned_date" class="java.lang.String"/>
+	<field name="address" class="java.lang.String"/>
+	<group name="Group1" isStartNewPage="true" isReprintHeaderOnEachPage="true">
+		<groupExpression><![CDATA["dummy"]]></groupExpression>
+		<groupHeader>
+			<band height="40" splitType="Stretch">
+				<frame>
+					<reportElement mode="Opaque" x="0" y="0" width="801" height="36" forecolor="#B89F7D" backcolor="#FFFFFF"/>
+					<staticText>
+						<reportElement x="44" y="15" width="216" height="20"/>
+						<textElement verticalAlignment="Bottom">
+							<font fontName="Monospaced" size="10" isBold="true"/>
+						</textElement>
+						<text><![CDATA[GENERIC NAME]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="260" y="15" width="127" height="20"/>
+						<textElement verticalAlignment="Bottom">
+							<font fontName="Monospaced" size="10" isBold="true"/>
+						</textElement>
+						<text><![CDATA[THERAPEUTIC AREA]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="390" y="15" width="100" height="20"/>
+						<textElement verticalAlignment="Bottom">
+							<font fontName="Monospaced" size="10" isBold="true"/>
+						</textElement>
+						<text><![CDATA[FORMULATION]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="490" y="15" width="114" height="20"/>
+						<textElement verticalAlignment="Bottom">
+							<font fontName="Monospaced" size="10" isBold="true"/>
+						</textElement>
+						<text><![CDATA[EXCEPTION]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="604" y="5" width="107" height="30"/>
+						<textElement verticalAlignment="Bottom">
+							<font fontName="Monospaced" size="10" isBold="true"/>
+						</textElement>
+						<text><![CDATA[GAZETTE NOTIFICATION]]></text>
+					</staticText>
+					<staticText>
+						<reportElement mode="Transparent" x="0" y="15" width="44" height="20" forecolor="#000000" backcolor="#FFFFFF"/>
+						<textElement textAlignment="Left" verticalAlignment="Bottom" rotation="None" lineSpacing="Single" markup="none">
+							<font fontName="Monospaced" size="10" isBold="true" isItalic="false" isUnderline="false" isStrikeThrough="false" pdfFontName="Helvetica" pdfEncoding="Cp1252" isPdfEmbedded="false"/>
+						</textElement>
+						<text><![CDATA[S. NO.]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="711" y="15" width="88" height="20"/>
+						<textElement verticalAlignment="Bottom">
+							<font fontName="Monospaced" size="10" isBold="true"/>
+						</textElement>
+						<text><![CDATA[BANNED DATE]]></text>
+					</staticText>
+					<line>
+						<reportElement x="2" y="34" width="797" height="1"/>
+						<graphicElement>
+							<pen lineWidth="0.5" lineColor="#999999"/>
+						</graphicElement>
+					</line>
+				</frame>
+			</band>
+		</groupHeader>
+	</group>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="2" splitType="Stretch"/>
+	</title>
+	<pageHeader>
+		<band height="70">
+			<textField>
+				<reportElement x="141" y="0" width="483" height="24"/>
+				<textElement textAlignment="Center" verticalAlignment="Bottom">
+					<font fontName="SansSerif" size="14" isBold="true"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{shop_name}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="703" y="47" width="98" height="20"/>
+				<textElement verticalAlignment="Bottom">
+					<font fontName="SansSerif" size="12"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{contact_no1}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="623" y="47" width="78" height="20"/>
+				<textElement verticalAlignment="Bottom">
+					<font fontName="SansSerif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Phone No  :]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="703" y="27" width="98" height="20"/>
+				<textElement verticalAlignment="Bottom">
+					<font fontName="SansSerif" size="12"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{tin_no}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="624" y="27" width="77" height="20"/>
+				<textElement verticalAlignment="Bottom">
+					<font fontName="SansSerif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[TIN No     :]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="141" y="27" width="482" height="20"/>
+				<textElement textAlignment="Center" verticalAlignment="Bottom">
+					<font fontName="SansSerif" size="12"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{address}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="249" y="46" width="257" height="20"/>
+				<textElement textAlignment="Center" verticalAlignment="Bottom">
+					<font fontName="SansSerif" size="12" isBold="false"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{city}+((($F{pincode}==null))||(($F{pincode}==""))?($F{pincode}).replace("-",""):("-"+$F{pincode}))]]></textFieldExpression>
+			</textField>
+			<image>
+				<reportElement x="746" y="0" width="55" height="18"/>
+				<imageExpression class="java.lang.String"><![CDATA[$P{REPORTS_DIR}]]></imageExpression>
+			</image>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="38" splitType="Stretch">
+			<line>
+				<reportElement positionType="FixRelativeToBottom" x="0" y="34" width="802" height="1"/>
+				<graphicElement>
+					<pen lineWidth="0.5" lineColor="#999999"/>
+				</graphicElement>
+			</line>
+			<staticText>
+				<reportElement style="Column header" x="282" y="10" width="191" height="24" forecolor="#000000"/>
+				<textElement textAlignment="Center" verticalAlignment="Top">
+					<font fontName="Monospaced" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[BANNED DRUGS LIST]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="48" splitType="Stretch">
+			<line>
+				<reportElement positionType="FixRelativeToBottom" x="0" y="45" width="802" height="1"/>
+				<graphicElement>
+					<pen lineWidth="0.5" lineColor="#999999"/>
+				</graphicElement>
+			</line>
+			<frame>
+				<reportElement style="Row" mode="Transparent" x="1" y="0" width="802" height="48"/>
+				<textField>
+					<reportElement x="1" y="3" width="44" height="40"/>
+					<textElement verticalAlignment="Bottom">
+						<font fontName="Monospaced"/>
+					</textElement>
+					<textFieldExpression class="java.lang.Long"><![CDATA[$F{s_no}]]></textFieldExpression>
+				</textField>
+				<textField isBlankWhenNull="true">
+					<reportElement x="45" y="3" width="216" height="40"/>
+					<textElement verticalAlignment="Bottom">
+						<font fontName="Monospaced"/>
+					</textElement>
+					<textFieldExpression class="java.lang.String"><![CDATA[$F{generic_name}]]></textFieldExpression>
+				</textField>
+				<textField isBlankWhenNull="true">
+					<reportElement x="261" y="3" width="127" height="40"/>
+					<textElement verticalAlignment="Bottom">
+						<font fontName="Monospaced"/>
+					</textElement>
+					<textFieldExpression class="java.lang.String"><![CDATA[$F{therapeutic_area}]]></textFieldExpression>
+				</textField>
+				<textField isBlankWhenNull="true">
+					<reportElement x="391" y="3" width="100" height="40"/>
+					<textElement verticalAlignment="Bottom">
+						<font fontName="Monospaced"/>
+					</textElement>
+					<textFieldExpression class="java.lang.String"><![CDATA[$F{formulation}]]></textFieldExpression>
+				</textField>
+				<textField isBlankWhenNull="true">
+					<reportElement x="491" y="3" width="112" height="40"/>
+					<textElement verticalAlignment="Bottom">
+						<font fontName="Monospaced"/>
+					</textElement>
+					<textFieldExpression class="java.lang.String"><![CDATA[$F{exception}]]></textFieldExpression>
+				</textField>
+				<textField isBlankWhenNull="true">
+					<reportElement x="603" y="3" width="109" height="40"/>
+					<textElement verticalAlignment="Bottom">
+						<font fontName="Monospaced"/>
+					</textElement>
+					<textFieldExpression class="java.lang.String"><![CDATA[$F{gazette_notification}]]></textFieldExpression>
+				</textField>
+				<textField>
+					<reportElement x="712" y="3" width="88" height="40"/>
+					<textElement verticalAlignment="Bottom">
+						<font fontName="Monospaced"/>
+					</textElement>
+					<textFieldExpression class="java.lang.String"><![CDATA[$F{banned_date}]]></textFieldExpression>
+				</textField>
+			</frame>
+		</band>
+	</detail>
+	<pageFooter>
+		<band height="38" splitType="Stretch">
+			<textField>
+				<reportElement x="679" y="18" width="80" height="20"/>
+				<textElement textAlignment="Right" verticalAlignment="Bottom"/>
+				<textFieldExpression class="java.lang.String"><![CDATA["Page "+$V{PAGE_NUMBER}+" of"]]></textFieldExpression>
+			</textField>
+			<textField evaluationTime="Report">
+				<reportElement x="759" y="18" width="40" height="20"/>
+				<textElement verticalAlignment="Bottom"/>
+				<textFieldExpression class="java.lang.String"><![CDATA[" " + $V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+			<textField pattern="EEEEE dd MMMMM yyyy">
+				<reportElement x="7" y="16" width="231" height="20"/>
+				<textElement verticalAlignment="Bottom">
+					<font fontName="Monospaced" size="10"/>
+				</textElement>
+				<textFieldExpression class="java.util.Date"><![CDATA[new java.util.Date()]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="194" y="10" width="119" height="26"/>
+				<textElement verticalAlignment="Bottom">
+					<font fontName="Monospaced" size="10" isItalic="true"/>
+				</textElement>
+				<text><![CDATA[™Medeil]]></text>
+			</staticText>
+		</band>
+	</pageFooter>
+	<summary>
+		<band splitType="Stretch"/>
+	</summary>
+</jasperReport>
